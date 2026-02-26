@@ -7,8 +7,19 @@ Topics Covered:
 - typeof operator
 - var, let, const comparison
 - Block scope
-- Hoisting basics
+- Hoisting basics - Data Types (Primitive & Reference)
+- Operators (Arithmetic, Comparison, Logical)
+- Conditional Statements
+- Ternary Operator
+- Stack vs Heap Memory
+- Mutable vs Immutable Data
 
-I'm currently learning JavaScript fundamentals and practicing daily.
+
+##  Learning Approach
+
+- Writing clean and structured code
+- Understanding how memory works in JavaScript
+- Practicing logical thinking with conditions
+- Improving consistency through regular uploads
 
 More updates coming soon 
